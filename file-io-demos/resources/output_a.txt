@@ -1,0 +1,3 @@
+Working with FileReaders and FileWriters is rough!
+Why did I sign up for this course?
+Scratch that.  FileReaders and FileWriters are easy.

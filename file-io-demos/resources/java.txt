@@ -1,0 +1,2 @@
+Java is the most distressing thing to hit computing since MS-DOS.
+- Alan Kay, creator of Smalltalk
